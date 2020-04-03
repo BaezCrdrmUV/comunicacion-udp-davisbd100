@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "comunicacion-udp-davisbd100", "comunicacion-udp-davisbd100.csproj", "{2F944DBE-B5F6-4A80-AA9D-F81464CDF52B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F944DBE-B5F6-4A80-AA9D-F81464CDF52B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F944DBE-B5F6-4A80-AA9D-F81464CDF52B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F944DBE-B5F6-4A80-AA9D-F81464CDF52B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F944DBE-B5F6-4A80-AA9D-F81464CDF52B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF6C7A39-3593-42CF-B7CF-D83976DB6FDC}
+	EndGlobalSection
+EndGlobal

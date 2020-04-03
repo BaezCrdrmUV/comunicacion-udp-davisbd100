@@ -5,3 +5,5 @@
 1. El cliente se ejecuta agregando el parametro 'client' en la ejecucion _"dotnet run client"_
 1. Todas las entradas se realizan por medio de la consola
 1. Se debe iniciar primero el servidor y despues el cliente
+1. La palabra _bye_ se ocupa en este servidor para cerrar todo el servidor
+1. El servidor seguira escuchando todas las peticiones hasta que se cumpla la anterior
